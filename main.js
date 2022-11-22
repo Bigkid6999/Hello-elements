@@ -1,6 +1,6 @@
 //  JavaScript Code
 
-document.addEventListener ("clcick", sayHello);
+document.addEventListener ("click", sayHello);
 
 
 function sayHello() {
